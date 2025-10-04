@@ -40,4 +40,3 @@ This project is currently maintained by ABHISHEK SEEDARLA.
 ABHISHEK is a Software Engineer with experience in developing scalable, enterprise-grade applications using Java and Spring Boot. He is proficient in REST APIs and committed to delivering high-impact solutions.
 
 *   **Email:** seedarlaabhishek62@gmail.com
-*   **LinkedIn:** https://linkedin.com/in/naga-bhavani-652753225
